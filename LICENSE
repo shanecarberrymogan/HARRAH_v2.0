@@ -1,20 +1,27 @@
 BSD 3-Clause License
 
-Copyright (c) 2023, shanecarberrymogan
+Copyright (c) 2023, Shane Carberry Mogan
+
+This version of the HARRAH code is a revision of the original, which is covered under an NYU NONCOMMERCIAL LICENSE, see https://github.com/shanecarberrymogan/HARRAH/blob/main/LICENSE.md for more details.
+
+If you use this resource, please cite:
+
+1) Carberry Mogan, S.R., Tucker, O.J., Johnson, R.E., Vorburger, A., Galli, A., Marchand, B., Tafuni, A., Kumar, S., Sahin, I. and Sreenivasan, K.R., 2021. A tenuous, collisional atmosphere on Callisto. Icarus, 368, p.114597. DOI: 10.1016/j.icarus.2021.114597
+
+2) Carberry Mogan, S.R., Tucker, O.J., Johnson, R.E., Roth, L., Alday, J., Vorburger, A., Wurz, P., Galli, A., Smith, H.T., Marchand, B. and Oza, A.V., 2022. Callisto's atmosphere: First evidence for H2 and constraints on H2O. Journal of Geophysical Research: Planets, 127(11), p.e2022JE007294. DOI: 10.1029/2022JE007294
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
 
 1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+   list of conditions, and the following disclaimer.
 
 2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
+   this list of conditions, and the following disclaimer in the documentation
    and/or other materials provided with the distribution.
 
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
+3. The name of the copyright holder may be used to endorse or promote products
+   derived from this software without specific prior written permission.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
 AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
